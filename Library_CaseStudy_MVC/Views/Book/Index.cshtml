@@ -1,0 +1,28 @@
+﻿@model List<Library_CaseStudy_MVC.Models.Book>
+
+    <a href="/Book/Add">add new book</a>
+
+    <table class="table" border="1">
+
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Athor</th>
+            <th>AvilableCopies</th>
+            <th>Action</th>
+        </tr>
+
+    @foreach(var i in Model)
+    {
+        <tr>
+            <td>@i.boodid</td>
+            <td>@i.title</td>
+            <td>@i.author</td>
+            <td>@i.availablecopiesnum</td>
+            <td>
+                <a href="/Book/Delete/@i.boodid" class="btn btn-outline-danger">Delete</a>
+                <a href="/Book/Edit/@i.boodid" class="btn btn-outline-success">Edit</a>
+            </td>
+        </tr>
+    }
+</table>

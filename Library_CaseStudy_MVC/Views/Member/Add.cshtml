@@ -1,0 +1,17 @@
+﻿@model Library_CaseStudy_MVC.Models.Member
+
+<form asp-action="Add" method="post">
+    <div class="form-control">
+        <label>Name</label>
+        <input class="form-control" asp-for="name" />
+    </div>
+    <br />
+    <div class="form-control">
+        <label>Email</label>
+        <input class="form-control" asp-for="email" />
+    </div>
+    
+    <br />
+    <button class="btn btn-primary" type="submit">Add</button>
+
+</form>

@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\repo\\implementations\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\repo\\implementations\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\borrow\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\borrow\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\viewmodels\\borrowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\viewmodels\\borrowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\repo\\implementations\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\repo\\implementations\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\repo\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\repo\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\repo\\interfaces\\iborrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\repo\\interfaces\\iborrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\repo\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\repo\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\member\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\member\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\repo\\implementations\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\repo\\implementations\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\migrations\\20260425124904_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\migrations\\20260425124904_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|c:\\users\\soudy\\source\\repos\\library_casestudy_mvc\\library_casestudy_mvc\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FADBA84-DF7B-45A4-AE75-52A389847C21}|Library_CaseStudy_MVC\\Library_CaseStudy_MVC.csproj|solutionrelative:library_casestudy_mvc\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Models\\Book.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:32:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Borrow\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Borrow\\Index.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Borrow\\Index.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Borrow\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T15:03:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Controllers\\BorrowController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:35:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowRepo.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\implementations\\BorrowRepo.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Repo\\implementations\\BorrowRepo.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\implementations\\BorrowRepo.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Repo\\implementations\\BorrowRepo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:02:21.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Program.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:47:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Borrow\\Add.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Borrow\\Add.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Borrow\\Add.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Borrow\\Add.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T15:03:18.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "borrowVM.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\ViewModels\\borrowVM.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\ViewModels\\borrowVM.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\ViewModels\\borrowVM.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\ViewModels\\borrowVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:33:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\implementations\\BookRepo.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Repo\\implementations\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\implementations\\BookRepo.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Repo\\implementations\\BookRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:01:58.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\interfaces\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Repo\\interfaces\\IBookRepo.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\interfaces\\IBookRepo.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Repo\\interfaces\\IBookRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:56:14.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBorrowRepo.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\interfaces\\IBorrowRepo.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Repo\\interfaces\\IBorrowRepo.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\interfaces\\IBorrowRepo.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Repo\\interfaces\\IBorrowRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:56:51.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\interfaces\\IMemberRepo.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Repo\\interfaces\\IMemberRepo.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\interfaces\\IMemberRepo.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Repo\\interfaces\\IMemberRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:56:29.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Models\\Borrow.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Models\\Borrow.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Models\\Borrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:35:47.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Book\\Add.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Book\\Add.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Book\\Add.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Book\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T13:28:53.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\implementations\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Repo\\implementations\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Repo\\implementations\\MemberRepo.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Repo\\implementations\\MemberRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA9wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:02:09.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Member\\Add.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Member\\Add.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Member\\Add.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Member\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T13:42:26.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Member\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Member\\Edit.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Member\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T13:42:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T13:29:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T13:28:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Views\\Member\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T13:42:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:22:50.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:23:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:26:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260425124904_init.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Migrations\\20260425124904_init.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Migrations\\20260425124904_init.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Migrations\\20260425124904_init.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Migrations\\20260425124904_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:49:05.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\appsettings.json",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T12:45:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:40:34.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Library_CaseStudy_MVC\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\soudy\\source\\repos\\Library_CaseStudy_MVC\\Library_CaseStudy_MVC\\Models\\Member.cs",
+              "RelativeToolTip": "Library_CaseStudy_MVC\\Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:34:02.046Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

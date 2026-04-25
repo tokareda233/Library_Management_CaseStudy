@@ -1,0 +1,44 @@
+﻿@model List<Library_CaseStudy_MVC.Models.Borrow>
+
+    <a href="/Borrow/Add">add new borrow</a>
+
+    <form asp-action="Index" method="get">
+        <select name="status" class="form-control">
+            <option value="">--All--</option>
+        <option value="Returned">Returned</option>
+        <option value="Borrowed">Borrowed</option>
+        </select>
+
+        <button class="btn btn-secondary">Search</button>
+
+    </form>
+
+    <table class="table" border="1">
+
+        <tr>
+            <th>ID</th>
+            <th>BorrowDate</th>
+            <th>ReturnDate</th>
+            <th>Status</th>
+            <th>Book</th>
+            <th>Member</th>
+            <th>Action</th>
+        </tr>
+
+    @foreach(var i in Model)
+    {
+        <tr>
+            <td>@i.borrowid</td>
+            <td>@i.borroedate</td>
+            <td>@i.returndate</td>
+            <td>@i.status</td>
+            <td>@i.Book?.title</td>
+            <td>@i.Member?.name</td>
+            <td>
+                <a href="/Borrow/Delete/@i.borrowid" class="btn btn-outline-danger">Delete</a>
+                <a href="/Borrow/Return/@i.borrowid" class="btn btn-outline-success">Return</a>
+            </td>
+        </tr>
+    }
+
+    </table>

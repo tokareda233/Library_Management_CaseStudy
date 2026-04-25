@@ -1,0 +1,35 @@
+﻿@model Library_CaseStudy_MVC.ViewModels.borrowVM
+
+<form asp-action="Add" method="post"> 
+
+    <div class="form-control ">
+        <label >BorrowDate</label>
+        <input asp-for="borrowdate"/>
+    </div>
+    <br />
+    <div class="form-control ">
+        <label>ReturnDate</label>
+        <input asp-for="returndate" />
+    </div>
+    <br />
+    <div class="form-control">
+        <select asp-for="bookid">
+            @foreach(var i in Model.books)
+            {
+                <option value="@i.boodid">@i.title</option>
+            }
+        </select>
+    </div>
+    <br />
+    <div class="form-control">
+        <select asp-for="memberid">
+            @foreach (var i in Model.members)
+            {
+                <option value="@i.memberid">@i.name</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add</button>
+
+</form>
